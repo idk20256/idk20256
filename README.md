@@ -11,7 +11,7 @@
 ![Wave Animation](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ---
-## 🌟 Favorite Anime Quotes
+## 🌟 KATA KATA HARI INI
 
 > "disini gada apa apa cuk." - gabut banget: Yayaya  
 > "jangan lupa ngopi biar semangat." - oke  
@@ -37,7 +37,7 @@
 ## 🔥 Fun Animation
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+creating+cool+stuff.;Let's+build+something+amazing+together!+🚀" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;makan+tidur+rokok+rebahan+ngopi+salto+kayang.;terus+turu+salto+kayanglagi+saltolagi!+🚀" alt="Typing Animation">
 </p>
 
 ---
