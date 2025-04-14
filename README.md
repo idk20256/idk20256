@@ -11,14 +11,18 @@
 ![Wave Animation](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ---
+## 🌟 Favorite Anime Quotes
 
-## 🌟 About Me
-
-- 🎓 Passionate about coding and learning new technologies.
-- 🌱 Currently exploring the world of **Open Source** and **Web Development**.
-- 💬 Feel free to ask me anything about **programming**, **design**, or **tech**.
+> "disini gada apa apa cuk." - gabut banget: Yayaya  
+> "jangan lupa ngopi biar semangat." - oke  
 
 ---
+
+## 🎨 Aesthetic Anime-Themed Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
 
 ## 🚀 Skills & Tools  
 
