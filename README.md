@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
-# 🌸 Welcome to My GitHub Profile! 🌸
+# Selamat Datang
 
 ![header](https://user-images.githubusercontent.com/your-username/your-image.png)
 
@@ -18,13 +18,13 @@
 
 ---
 
-## 🎨 Aesthetic Anime-Themed Stats
+## GAMBAR QUOTES
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 
-## 🚀 Skills & Tools  
+## INI JUGA GATAU
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -34,7 +34,7 @@
 
 ---
 
-## 🔥 Fun Animation
+## MENDING BACA AJAH
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;makan+tidur+rokok+rebahan+ngopi+salto+kayang.;terus+turu+salto+kayanglagi+saltolagi!+🚀" alt="Typing Animation">
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistic doang
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=idk20256&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -51,7 +51,7 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Asupan Lu ni
 
 - 📧 Email: [porn@xnxx.com](mailto:porn@xnxx.com)
 - 🌐 Website: [xnxx](https://xnxx.com)
