@@ -49,9 +49,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [YourEmail@example.com](mailto:YourEmail@xnxx.com)
-- 🌐 Website: [YourWebsite](https://xnxx.com)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/xxnx)
+- 📧 Email: [porn@xnxx.com](mailto:porn@xnxx.com)
+- 🌐 Website: [xnxx](https://xnxx.com)
+- 🐦 Twitter: [@xnxx](https://twitter.com/xxnx)
 
 ---
 
