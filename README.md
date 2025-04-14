@@ -4,10 +4,6 @@
 
 ![header](https://user-images.githubusercontent.com/your-username/your-image.png)
 
-こんにちは！✨ I'm [Your Name]—a passionate developer who also loves anime! 🎥💻  
-Here, you’ll find a blend of code and creativity infused with the magic of anime.  
-# 🌸 Welcome to My Anime-Themed GitHub Profile! 🌸
-
 ![Anime Header](https://media.giphy.com/media/EOZ1Hzf2g4tP2/giphy.gif)
 
 ---
