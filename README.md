@@ -59,4 +59,4 @@
 
 ---
 
-*✨ This README was dynamically generated to make my profile shine! ✨*.  
+*✨ yali yali itu lagu tentang ekhm ekkm ✨*.  
